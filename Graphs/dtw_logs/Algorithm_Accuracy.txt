@@ -1,0 +1,7 @@
+Algorithm,Amp1,Amp2,Amp3,Amp4,Amp5,Amp6,Amp7,Amp8,Amp9,Amp10,Amp11
+ucr,Correct,Correct,Correct,Correct,Correct,Correct,Correct,Correct,Correct,Correct,Correct
+ftw,Correct,Incorrect,Incorrect,Incorrect,Incorrect,Correct,Incorrect,Incorrect,Incorrect,Incorrect,Correct
+cdtw,Incorrect,Incorrect,Incorrect,Incorrect,Incorrect,Incorrect,Correct,Correct,Incorrect,Incorrect,Incorrect
+mlpy,Incorrect,Correct,Correct,Incorrect,Incorrect,Incorrect,Incorrect,Incorrect,Correct,Correct,Correct
+dtw,Incorrect,Correct,Correct,Incorrect,Incorrect,Correct,Correct,Incorrect,Correct,Correct,Correct
+mlpy_sub,Correct,Correct,Correct,Correct,Correct,Correct,Correct,Correct,Correct,Correct,Correct
